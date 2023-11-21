@@ -1,8 +1,7 @@
 # Password-Generator
 
-=========================
 How to Use the Password Generator
-=========================
+
 
 1. Run the Password Generator:
    - Execute the script by running the following command in your terminal:
